@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://seardhag.github.io/sitemap.html
+Sitemap: https://seardhag.github.io/app/sitemap.html
+Sitemap: https://seardhag.github.io/assets/sitemap.html
+Sitemap: https://seardhag.github.io/css/sitemap.html
+Sitemap: https://seardhag.github.io/includes/sitemap.html
+Sitemap: https://seardhag.github.io/item/sitemap.html
+Sitemap: https://seardhag.github.io/src/sitemap.html
